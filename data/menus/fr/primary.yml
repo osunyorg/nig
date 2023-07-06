@@ -1,4 +1,8 @@
 ---
 title: Menu principal
-items: []
+items:
+- title: Version 1.0
+  target: "/version-1-0/"
+  kind: page
+  children: []
 
