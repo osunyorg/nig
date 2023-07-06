@@ -25,4 +25,8 @@ items:
     target: "/version-1-0/respect-des-personnes/"
     kind: page
     children: []
+  - title: Soin
+    target: "/version-1-0/soin/"
+    kind: page
+    children: []
 
