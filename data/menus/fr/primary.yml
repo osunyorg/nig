@@ -65,6 +65,10 @@ items:
       target: "/version-1-0/respect-de-la-loi/paiement-de-limpot/"
       kind: page
       children: []
+    - title: Consentement
+      target: "/version-1-0/respect-de-la-loi/consentement/"
+      kind: page
+      children: []
   - title: Respect des personnes
     target: "/version-1-0/respect-des-personnes/"
     kind: page
