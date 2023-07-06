@@ -61,6 +61,10 @@ items:
       target: "/version-1-0/respect-de-la-loi/respect-du-droit-du-travail/"
       kind: page
       children: []
+    - title: Paiement de l’impôt
+      target: "/version-1-0/respect-de-la-loi/paiement-de-limpot/"
+      kind: page
+      children: []
   - title: Respect des personnes
     target: "/version-1-0/respect-des-personnes/"
     kind: page
