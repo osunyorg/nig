@@ -13,6 +13,10 @@ items:
       target: "/version-1-0/justes-fins/besoins-reels/"
       kind: page
       children: []
+    - title: Au dessus du plancher social
+      target: "/version-1-0/justes-fins/au-dessus-du-plancher-social/"
+      kind: page
+      children: []
   - title: Juste place
     target: "/version-1-0/juste-place/"
     kind: page
