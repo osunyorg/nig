@@ -24,3 +24,14 @@ params:
         mobile:   400
         tablet:   1024
         desktop:  1920
+    sections:
+      home:
+        hero:
+          mobile:   400
+          tablet:   1024
+          desktop:  1920
+      pages:
+        hero:
+          mobile:   400
+          tablet:   1024
+          desktop:  1920
