@@ -88,5 +88,9 @@ items:
   - title: Soin
     target: "/version-1-0/soin/"
     kind: page
-    children: []
+    children:
+    - title: Utilisabilité
+      target: "/version-1-0/soin/utilisabilite/"
+      kind: page
+      children: []
 
