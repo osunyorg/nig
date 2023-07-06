@@ -17,6 +17,10 @@ items:
       target: "/version-1-0/justes-fins/au-dessus-du-plancher-social/"
       kind: page
       children: []
+    - title: En dessous des plafonds environnementaux
+      target: "/version-1-0/justes-fins/en-dessous-des-plafonds-environnementaux/"
+      kind: page
+      children: []
   - title: Juste place
     target: "/version-1-0/juste-place/"
     kind: page
