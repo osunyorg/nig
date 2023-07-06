@@ -81,6 +81,10 @@ items:
       target: "/version-1-0/respect-des-personnes/simplicite/"
       kind: page
       children: []
+    - title: Honnêteté
+      target: "/version-1-0/respect-des-personnes/honnetete/"
+      kind: page
+      children: []
   - title: Soin
     target: "/version-1-0/soin/"
     kind: page
