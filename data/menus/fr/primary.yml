@@ -9,4 +9,8 @@ items:
     target: "/version-1-0/justes-fins/"
     kind: page
     children: []
+  - title: Juste place
+    target: "/version-1-0/juste-place/"
+    kind: page
+    children: []
 
