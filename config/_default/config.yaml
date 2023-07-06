@@ -13,3 +13,14 @@ params:
     position: after-hero
   summary:
     position: hero
+  logo:
+    header: "/assets/images/logo-blanc.svg"
+    footer: "/assets/images/logo.svg"
+  image_sizes:
+    design_system:
+      lightbox:
+        disabled: true
+      hero:
+        mobile:   400
+        tablet:   1024
+        desktop:  1920
