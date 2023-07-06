@@ -17,4 +17,8 @@ items:
     target: "/version-1-0/democratie/"
     kind: page
     children: []
+  - title: Respect de la loi
+    target: "/version-1-0/respect-de-la-loi/"
+    kind: page
+    children: []
 
