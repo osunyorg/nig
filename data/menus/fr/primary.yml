@@ -21,4 +21,8 @@ items:
     target: "/version-1-0/respect-de-la-loi/"
     kind: page
     children: []
+  - title: Respect des personnes
+    target: "/version-1-0/respect-des-personnes/"
+    kind: page
+    children: []
 
