@@ -97,4 +97,8 @@ items:
       target: "/version-1-0/soin/beaute/"
       kind: page
       children: []
+    - title: Frugalité
+      target: "/version-1-0/soin/frugalite/"
+      kind: page
+      children: []
 
