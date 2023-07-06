@@ -45,6 +45,10 @@ items:
       target: "/version-1-0/democratie/transparence/"
       kind: page
       children: []
+    - title: Logiciel libre
+      target: "/version-1-0/democratie/logiciel-libre/"
+      kind: page
+      children: []
   - title: Respect de la loi
     target: "/version-1-0/respect-de-la-loi/"
     kind: page
