@@ -72,7 +72,11 @@ items:
   - title: Respect des personnes
     target: "/version-1-0/respect-des-personnes/"
     kind: page
-    children: []
+    children:
+    - title: Accessibilité
+      target: "/version-1-0/respect-des-personnes/accessibilite-1/"
+      kind: page
+      children: []
   - title: Soin
     target: "/version-1-0/soin/"
     kind: page
