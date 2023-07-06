@@ -24,7 +24,11 @@ items:
   - title: Juste place
     target: "/version-1-0/juste-place/"
     kind: page
-    children: []
+    children:
+    - title: Possibilité d’appropriation
+      target: "/version-1-0/juste-place/possibilite-dappropriation/"
+      kind: page
+      children: []
   - title: Démocratie
     target: "/version-1-0/democratie/"
     kind: page
