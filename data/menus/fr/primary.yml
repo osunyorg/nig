@@ -77,6 +77,10 @@ items:
       target: "/version-1-0/respect-des-personnes/accessibilite-1/"
       kind: page
       children: []
+    - title: Simplicité
+      target: "/version-1-0/respect-des-personnes/simplicite/"
+      kind: page
+      children: []
   - title: Soin
     target: "/version-1-0/soin/"
     kind: page
