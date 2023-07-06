@@ -49,6 +49,10 @@ items:
       target: "/version-1-0/democratie/logiciel-libre/"
       kind: page
       children: []
+    - title: Gouvernance compatible
+      target: "/version-1-0/democratie/gouvernance-compatible/"
+      kind: page
+      children: []
   - title: Respect de la loi
     target: "/version-1-0/respect-de-la-loi/"
     kind: page
