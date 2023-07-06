@@ -13,4 +13,8 @@ items:
     target: "/version-1-0/juste-place/"
     kind: page
     children: []
+  - title: Démocratie
+    target: "/version-1-0/democratie/"
+    kind: page
+    children: []
 
