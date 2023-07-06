@@ -40,7 +40,11 @@ items:
   - title: Démocratie
     target: "/version-1-0/democratie/"
     kind: page
-    children: []
+    children:
+    - title: Transparence
+      target: "/version-1-0/democratie/transparence/"
+      kind: page
+      children: []
   - title: Respect de la loi
     target: "/version-1-0/respect-de-la-loi/"
     kind: page
