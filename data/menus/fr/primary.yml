@@ -93,4 +93,8 @@ items:
       target: "/version-1-0/soin/utilisabilite/"
       kind: page
       children: []
+    - title: Beauté
+      target: "/version-1-0/soin/beaute/"
+      kind: page
+      children: []
 
