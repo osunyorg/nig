@@ -4,5 +4,9 @@ items:
 - title: Version 1.0
   target: "/version-1-0/"
   kind: page
-  children: []
+  children:
+  - title: Justes fins
+    target: "/version-1-0/justes-fins/"
+    kind: page
+    children: []
 
