@@ -33,6 +33,10 @@ items:
       target: "/version-1-0/juste-place/liberte-dattention/"
       kind: page
       children: []
+    - title: Droit à la non connexion
+      target: "/version-1-0/juste-place/droit-a-la-non-connexion/"
+      kind: page
+      children: []
   - title: Démocratie
     target: "/version-1-0/democratie/"
     kind: page
