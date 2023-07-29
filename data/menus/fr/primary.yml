@@ -156,7 +156,11 @@ items:
   - title: Respect de la loi
     target: "/version-1-1/v1-1-respect-de-la-loi/"
     kind: page
-    children: []
+    children:
+    - title: Respect du droit du travail
+      target: "/version-1-1/v1-1-respect-de-la-loi/v1-1-respect-du-droit-du-travail/"
+      kind: page
+      children: []
   - title: Respect des personnes
     target: "/version-1-1/v1-1-respect-des-personnes/"
     kind: page
