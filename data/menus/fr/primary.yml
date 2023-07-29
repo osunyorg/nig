@@ -204,5 +204,9 @@ items:
   - title: Souveraineté
     target: "/version-1-1/v1-1-souverainete/"
     kind: page
-    children: []
+    children:
+    - title: Hébergement physique en France ou en Europe
+      target: "/version-1-1/v1-1-souverainete/v1-1-donnees-physiques-en-france-ou-en-europe/"
+      kind: page
+      children: []
 
