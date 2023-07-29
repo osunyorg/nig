@@ -124,7 +124,11 @@ items:
   - title: Juste place
     target: "/version-1-1/v1-1-juste-place/"
     kind: page
-    children: []
+    children:
+    - title: Possibilité d’appropriation
+      target: "/version-1-1/v1-1-juste-place/v1-1-possibilite-dappropriation/"
+      kind: page
+      children: []
   - title: Démocratie
     target: "/version-1-1/v1-1-democratie/"
     kind: page
