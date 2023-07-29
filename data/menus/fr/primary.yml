@@ -129,6 +129,10 @@ items:
       target: "/version-1-1/v1-1-juste-place/v1-1-possibilite-dappropriation/"
       kind: page
       children: []
+    - title: Liberté d’attention
+      target: "/version-1-1/v1-1-juste-place/v1-1-liberte-dattention/"
+      kind: page
+      children: []
   - title: Démocratie
     target: "/version-1-1/v1-1-democratie/"
     kind: page
