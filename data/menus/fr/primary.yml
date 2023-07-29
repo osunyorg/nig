@@ -129,4 +129,8 @@ items:
     target: "/version-1-1/v1-1-soin/"
     kind: page
     children: []
+  - title: Souveraineté
+    target: "/version-1-1/v1-1-souverainete/"
+    kind: page
+    children: []
 
