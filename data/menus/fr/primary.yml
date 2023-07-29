@@ -165,6 +165,10 @@ items:
       target: "/version-1-1/v1-1-respect-de-la-loi/v1-1-paiement-de-limpot/"
       kind: page
       children: []
+    - title: Consentement
+      target: "/version-1-1/v1-1-respect-de-la-loi/v1-1-consentement/"
+      kind: page
+      children: []
   - title: Respect des personnes
     target: "/version-1-1/v1-1-respect-des-personnes/"
     kind: page
