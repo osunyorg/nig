@@ -181,6 +181,10 @@ items:
       target: "/version-1-1/v1-1-respect-des-personnes/v1-1-simplicite/"
       kind: page
       children: []
+    - title: Honnêteté
+      target: "/version-1-1/v1-1-respect-des-personnes/v1-1-honnetete/"
+      kind: page
+      children: []
   - title: Soin
     target: "/version-1-1/v1-1-soin/"
     kind: page
