@@ -145,6 +145,10 @@ items:
       target: "/version-1-1/v1-1-democratie/v1-1-transparence/"
       kind: page
       children: []
+    - title: Logiciel libre
+      target: "/version-1-1/v1-1-democratie/v1-1-logiciel-libre/"
+      kind: page
+      children: []
   - title: Respect de la loi
     target: "/version-1-1/v1-1-respect-de-la-loi/"
     kind: page
