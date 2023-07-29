@@ -188,7 +188,11 @@ items:
   - title: Soin
     target: "/version-1-1/v1-1-soin/"
     kind: page
-    children: []
+    children:
+    - title: Utilisabilité
+      target: "/version-1-1/v1-1-soin/v1-1-utilisabilite/"
+      kind: page
+      children: []
   - title: Souveraineté
     target: "/version-1-1/v1-1-souverainete/"
     kind: page
