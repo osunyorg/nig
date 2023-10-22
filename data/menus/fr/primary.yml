@@ -1,14 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  children: []
-- title: Études de cas
-  target: "/etudes-de-cas/"
-  kind: page
-  children: []
 - title: Version 1.1
   target: "/version-1-1/"
   kind: page
@@ -125,4 +117,12 @@ items:
       target: "/version-1-1/v1-1-souverainete/v1-1-infrastructure-et-application-securisees/"
       kind: page
       children: []
+- title: Actualités
+  target: "/actualites/"
+  kind: page
+  children: []
+- title: Études de cas
+  target: "/etudes-de-cas/"
+  kind: page
+  children: []
 
