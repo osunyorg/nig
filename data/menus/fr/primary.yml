@@ -1,7 +1,7 @@
 ---
 title: Menu principal
 items:
-- title: Version 1.1
+- title: NIG 1.1
   target: "/nig-1-1/"
   kind: page
   children:
