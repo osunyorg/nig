@@ -1,6 +1,14 @@
 ---
 title: Menu principal
 items:
+- title: Actualités
+  target: "/actualites/"
+  kind: page
+  children: []
+- title: Études de cas
+  target: "/etudes-de-cas/"
+  kind: page
+  children: []
 - title: NIG 1.1
   target: "/nig-1-1/"
   kind: page
@@ -117,12 +125,4 @@ items:
       target: "/nig-1-1/v1-1-souverainete/v1-1-infrastructure-et-application-securisees/"
       kind: page
       children: []
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  children: []
-- title: Études de cas
-  target: "/etudes-de-cas/"
-  kind: page
-  children: []
 
