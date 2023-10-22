@@ -40,13 +40,8 @@
         .lead
             color: white 
 
-.block-pages
-    article
-        p
-            display: none
-        .media
-            margin-bottom: $spacing0 !important
-
-main>.blocks .block-pages--list .block-content, 
-body.full-width .block-pages--list .block-content
-    grid-gap: 1rem 4rem
+main > .blocks, 
+body.full-width
+    .block-pages--list 
+        .block-content
+            grid-gap: 1rem 4rem
