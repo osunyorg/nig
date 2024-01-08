@@ -6,6 +6,8 @@ params:
   plausible: numeriqueinteretgeneral.org
   breadcrumb:
     position: after-hero
+  search:
+    active: true
   summary:
     position: hero
   logo:
