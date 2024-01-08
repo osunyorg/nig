@@ -5,6 +5,10 @@ items:
   target: "/actualites/"
   kind: page
   children: []
+- title: Agenda
+  target: "/agenda/"
+  kind: page
+  children: []
 - title: Études de cas
   target: "/etudes-de-cas/"
   kind: page
