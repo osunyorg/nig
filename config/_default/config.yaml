@@ -5,7 +5,7 @@ removePathAccents: true
 params:
   plausible: numeriqueinteretgeneral.org
   breadcrumb:
-    position: after-hero
+    position: hero-end
   search:
     active: true
   summary:
