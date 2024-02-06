@@ -5,8 +5,12 @@
     font-style: italic
     margin-top: 0 !important
 
-.page__home
+.page__home,
+body:not(.image-header)
     .hero
+        background-image: url(/assets/images/background.jpg)
+        background-size: cover
+        background-position: top
         margin-bottom: $spacing3
     
 body.image-header
