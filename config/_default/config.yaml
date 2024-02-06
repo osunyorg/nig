@@ -13,6 +13,9 @@ params:
   logo:
     header: "/assets/images/logo-blanc.svg"
     footer: "/assets/images/logo.svg"
+  seo:
+    title:
+      separator: "•"
   image_sizes:
     design_system:
       lightbox:
