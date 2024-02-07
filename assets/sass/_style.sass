@@ -1,6 +1,3 @@
-*
-    // font-variant-emoji: text
-
 .lead
     font-style: italic
     margin-top: 0 !important
@@ -12,7 +9,17 @@ body:not(.image-header)
         background-size: cover
         background-position: top
         margin-bottom: $spacing3
-    
+
+.page__home
+    .hero
+        h1,
+        hgroup
+            @include media-breakpoint-up(md)
+                width: 100%
+            @include media-breakpoint-up(xl)
+                max-width: col(10) 
+            @include media-breakpoint-up(xxl)
+                max-width: col(8) 
 body.image-header
     .hero
         overflow: hidden
