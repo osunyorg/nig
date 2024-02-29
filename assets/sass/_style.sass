@@ -8,7 +8,7 @@ body:not(.image-header)
         background-image: url(/assets/images/background.jpg)
         background-size: cover
         background-position: top
-        margin-bottom: $spacing3
+        margin-bottom: $spacing-5
 
 .page__home
     .hero
@@ -17,9 +17,9 @@ body:not(.image-header)
             @include media-breakpoint-up(md)
                 width: 100%
             @include media-breakpoint-up(xl)
-                max-width: col(10) 
+                max-width: columns(10) 
             @include media-breakpoint-up(xxl)
-                max-width: col(8) 
+                max-width: columns(8) 
 body.image-header
     .hero
         overflow: hidden
@@ -56,7 +56,7 @@ body.image-header
 main > .blocks, 
 body.full-width
     .block + .block-pages
-        margin-top: $spacing4
+        margin-top: $spacing-6
     .block-pages--list 
         .block-content
             grid-gap: 1rem 4rem
@@ -71,7 +71,7 @@ body.full-width
 
 .blocks
     .heading
-        margin-top: $spacing4
+        margin-top: $spacing-6
 
 .events__page 
     .hero 

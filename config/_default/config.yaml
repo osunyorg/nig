@@ -35,3 +35,5 @@ params:
           mobile:   400
           tablet:   1024
           desktop:  1920
+  debug:
+     productionUrl: "https://www.numeriqueinteretgeneral.org"
