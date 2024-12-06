@@ -52,7 +52,15 @@ body.image-header
         hgroup,
         .has-lead > p
             color: white 
-
+        figure
+            figcaption
+                &::before
+                    background: none
+                    color: white
+                .credit
+                    background: none
+                    *
+                        color: white
 main > .blocks, 
 body.full-width
     .block + .block-pages
