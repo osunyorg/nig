@@ -5,16 +5,19 @@ items:
   target: "/actualites/"
   kind: page
   children: []
+  path: "/posts"
   file: content/fr/posts/_index.html
 - title: Agenda
   target: "/agenda/"
   kind: page
   children: []
+  path: "/events"
   file: content/fr/events/_index.html
 - title: Études de cas
   target: "/etudes-de-cas/"
   kind: page
   children: []
+  path: "/pages/etudes-de-cas"
   file: content/fr/pages/etudes-de-cas/_index.html
 - title: NIG 1.1
   target: "/nig-1-1/"
@@ -28,17 +31,21 @@ items:
       target: "/nig-1-1/v1-1-justes-fins/v1-1-besoins-reels/"
       kind: page
       children: []
+      path: "/pages/nig-1-1/v1-1-justes-fins/v1-1-besoins-reels"
       file: content/fr/pages/nig-1-1/v1-1-justes-fins/v1-1-besoins-reels/_index.html
     - title: Au dessus du plancher social
       target: "/nig-1-1/v1-1-justes-fins/v1-1-au-dessus-du-plancher-social/"
       kind: page
       children: []
+      path: "/pages/nig-1-1/v1-1-justes-fins/v1-1-au-dessus-du-plancher-social"
       file: content/fr/pages/nig-1-1/v1-1-justes-fins/v1-1-au-dessus-du-plancher-social/_index.html
     - title: En dessous des plafonds environnementaux
       target: "/nig-1-1/v1-1-justes-fins/v1-1-en-dessous-des-plafonds-environnementaux/"
       kind: page
       children: []
+      path: "/pages/nig-1-1/v1-1-justes-fins/v1-1-en-dessous-des-plafonds-environnementaux"
       file: content/fr/pages/nig-1-1/v1-1-justes-fins/v1-1-en-dessous-des-plafonds-environnementaux/_index.html
+    path: "/pages/nig-1-1/v1-1-justes-fins"
     file: content/fr/pages/nig-1-1/v1-1-justes-fins/_index.html
   - title: Juste place
     target: "/nig-1-1/v1-1-juste-place/"
@@ -48,17 +55,21 @@ items:
       target: "/nig-1-1/v1-1-juste-place/v1-1-possibilite-dappropriation/"
       kind: page
       children: []
+      path: "/pages/nig-1-1/v1-1-juste-place/v1-1-possibilite-dappropriation"
       file: content/fr/pages/nig-1-1/v1-1-juste-place/v1-1-possibilite-dappropriation/_index.html
     - title: Liberté d’attention
       target: "/nig-1-1/v1-1-juste-place/v1-1-liberte-dattention/"
       kind: page
       children: []
+      path: "/pages/nig-1-1/v1-1-juste-place/v1-1-liberte-dattention"
       file: content/fr/pages/nig-1-1/v1-1-juste-place/v1-1-liberte-dattention/_index.html
     - title: Droit à la non connexion
       target: "/nig-1-1/v1-1-juste-place/v1-1-droit-a-la-non-connexion/"
       kind: page
       children: []
+      path: "/pages/nig-1-1/v1-1-juste-place/v1-1-droit-a-la-non-connexion"
       file: content/fr/pages/nig-1-1/v1-1-juste-place/v1-1-droit-a-la-non-connexion/_index.html
+    path: "/pages/nig-1-1/v1-1-juste-place"
     file: content/fr/pages/nig-1-1/v1-1-juste-place/_index.html
   - title: Démocratie
     target: "/nig-1-1/v1-1-democratie/"
@@ -68,17 +79,21 @@ items:
       target: "/nig-1-1/v1-1-democratie/v1-1-transparence/"
       kind: page
       children: []
+      path: "/pages/nig-1-1/v1-1-democratie/v1-1-transparence"
       file: content/fr/pages/nig-1-1/v1-1-democratie/v1-1-transparence/_index.html
     - title: Logiciel libre
       target: "/nig-1-1/v1-1-democratie/v1-1-logiciel-libre/"
       kind: page
       children: []
+      path: "/pages/nig-1-1/v1-1-democratie/v1-1-logiciel-libre"
       file: content/fr/pages/nig-1-1/v1-1-democratie/v1-1-logiciel-libre/_index.html
     - title: Gouvernance compatible
       target: "/nig-1-1/v1-1-democratie/v1-1-gouvernance-compatible/"
       kind: page
       children: []
+      path: "/pages/nig-1-1/v1-1-democratie/v1-1-gouvernance-compatible"
       file: content/fr/pages/nig-1-1/v1-1-democratie/v1-1-gouvernance-compatible/_index.html
+    path: "/pages/nig-1-1/v1-1-democratie"
     file: content/fr/pages/nig-1-1/v1-1-democratie/_index.html
   - title: Respect de la loi
     target: "/nig-1-1/v1-1-respect-de-la-loi/"
@@ -88,17 +103,21 @@ items:
       target: "/nig-1-1/v1-1-respect-de-la-loi/v1-1-respect-du-droit-du-travail/"
       kind: page
       children: []
+      path: "/pages/nig-1-1/v1-1-respect-de-la-loi/v1-1-respect-du-droit-du-travail"
       file: content/fr/pages/nig-1-1/v1-1-respect-de-la-loi/v1-1-respect-du-droit-du-travail/_index.html
     - title: Paiement de l’impôt
       target: "/nig-1-1/v1-1-respect-de-la-loi/v1-1-paiement-de-limpot/"
       kind: page
       children: []
+      path: "/pages/nig-1-1/v1-1-respect-de-la-loi/v1-1-paiement-de-limpot"
       file: content/fr/pages/nig-1-1/v1-1-respect-de-la-loi/v1-1-paiement-de-limpot/_index.html
     - title: Consentement
       target: "/nig-1-1/v1-1-respect-de-la-loi/v1-1-consentement/"
       kind: page
       children: []
+      path: "/pages/nig-1-1/v1-1-respect-de-la-loi/v1-1-consentement"
       file: content/fr/pages/nig-1-1/v1-1-respect-de-la-loi/v1-1-consentement/_index.html
+    path: "/pages/nig-1-1/v1-1-respect-de-la-loi"
     file: content/fr/pages/nig-1-1/v1-1-respect-de-la-loi/_index.html
   - title: Respect des personnes
     target: "/nig-1-1/v1-1-respect-des-personnes/"
@@ -108,17 +127,21 @@ items:
       target: "/nig-1-1/v1-1-respect-des-personnes/v1-1-accessibilite/"
       kind: page
       children: []
+      path: "/pages/nig-1-1/v1-1-respect-des-personnes/v1-1-accessibilite"
       file: content/fr/pages/nig-1-1/v1-1-respect-des-personnes/v1-1-accessibilite/_index.html
     - title: Simplicité
       target: "/nig-1-1/v1-1-respect-des-personnes/v1-1-simplicite/"
       kind: page
       children: []
+      path: "/pages/nig-1-1/v1-1-respect-des-personnes/v1-1-simplicite"
       file: content/fr/pages/nig-1-1/v1-1-respect-des-personnes/v1-1-simplicite/_index.html
     - title: Honnêteté
       target: "/nig-1-1/v1-1-respect-des-personnes/v1-1-honnetete/"
       kind: page
       children: []
+      path: "/pages/nig-1-1/v1-1-respect-des-personnes/v1-1-honnetete"
       file: content/fr/pages/nig-1-1/v1-1-respect-des-personnes/v1-1-honnetete/_index.html
+    path: "/pages/nig-1-1/v1-1-respect-des-personnes"
     file: content/fr/pages/nig-1-1/v1-1-respect-des-personnes/_index.html
   - title: Soin
     target: "/nig-1-1/v1-1-soin/"
@@ -128,17 +151,21 @@ items:
       target: "/nig-1-1/v1-1-soin/v1-1-utilisabilite/"
       kind: page
       children: []
+      path: "/pages/nig-1-1/v1-1-soin/v1-1-utilisabilite"
       file: content/fr/pages/nig-1-1/v1-1-soin/v1-1-utilisabilite/_index.html
     - title: Beauté
       target: "/nig-1-1/v1-1-soin/v1-1-beaute/"
       kind: page
       children: []
+      path: "/pages/nig-1-1/v1-1-soin/v1-1-beaute"
       file: content/fr/pages/nig-1-1/v1-1-soin/v1-1-beaute/_index.html
     - title: Frugalité
       target: "/nig-1-1/v1-1-soin/v1-1-frugalite/"
       kind: page
       children: []
+      path: "/pages/nig-1-1/v1-1-soin/v1-1-frugalite"
       file: content/fr/pages/nig-1-1/v1-1-soin/v1-1-frugalite/_index.html
+    path: "/pages/nig-1-1/v1-1-soin"
     file: content/fr/pages/nig-1-1/v1-1-soin/_index.html
   - title: Souveraineté
     target: "/nig-1-1/v1-1-souverainete/"
@@ -148,17 +175,22 @@ items:
       target: "/nig-1-1/v1-1-souverainete/v1-1-donnees-physiques-en-france-ou-en-europe/"
       kind: page
       children: []
+      path: "/pages/nig-1-1/v1-1-souverainete/v1-1-donnees-physiques-en-france-ou-en-europe"
       file: content/fr/pages/nig-1-1/v1-1-souverainete/v1-1-donnees-physiques-en-france-ou-en-europe/_index.html
     - title: Hébergement juridique en France ou en Europe
       target: "/nig-1-1/v1-1-souverainete/v1-1-structure-juridique-dhebergement-en-france-ou-en-europe/"
       kind: page
       children: []
+      path: "/pages/nig-1-1/v1-1-souverainete/v1-1-structure-juridique-dhebergement-en-france-ou-en-europe"
       file: content/fr/pages/nig-1-1/v1-1-souverainete/v1-1-structure-juridique-dhebergement-en-france-ou-en-europe/_index.html
     - title: Infrastructure et application sécurisées
       target: "/nig-1-1/v1-1-souverainete/v1-1-infrastructure-et-application-securisees/"
       kind: page
       children: []
+      path: "/pages/nig-1-1/v1-1-souverainete/v1-1-infrastructure-et-application-securisees"
       file: content/fr/pages/nig-1-1/v1-1-souverainete/v1-1-infrastructure-et-application-securisees/_index.html
+    path: "/pages/nig-1-1/v1-1-souverainete"
     file: content/fr/pages/nig-1-1/v1-1-souverainete/_index.html
+  path: "/pages/nig-1-1"
   file: content/fr/pages/nig-1-1/_index.html
 
