@@ -2,6 +2,11 @@
 
 baseURL: https://www.numeriqueinteretgeneral.org
 
+## OSUNY
+osuny:
+  website:
+    id: 5b500a04-660b-455a-baeb-615e2ecd17c5
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
