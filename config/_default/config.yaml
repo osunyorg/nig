@@ -3,14 +3,14 @@ _merge: deep
 params:
   plausible: numeriqueinteretgeneral.org
   breadcrumb:
-    position: hero-end
+    position: after-hero
   search:
     active: true
   summary:
     position: hero
   logo:
     header: "/assets/images/logo-blanc.svg"
-    footer: "/assets/images/logo.svg"
+    footer: "/assets/images/logo-blanc.svg"
   seo:
     title:
       separator: "•"
