@@ -3,6 +3,14 @@
     background-size: cover
     background-position: top
     .content
+        @include media-breakpoint-down(desktop)
+            display: flex
+            flex-direction: column-reverse
+            figure
+                figcaption
+                    background: none
+            .hero-text
+                padding-top: $spacing-4
         .hero-text
             margin-top: 0 !important
             h1,
@@ -40,6 +48,8 @@
             .hero-text
                 h1,
                 hgroup
+                    @include media-breakpoint-down(md)
+                        margin-top: $spacing-5
                     @include media-breakpoint-up(md)
                         max-width: 100%
                     @include media-breakpoint-up(xl)
