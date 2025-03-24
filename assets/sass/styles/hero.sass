@@ -47,5 +47,8 @@
                     @include media-breakpoint-up(xxl)
                         max-width: columns(8) 
 
-.hero + .breadcrumb-container
-    margin-bottom: $spacing-3
+.hero 
+    + .breadcrumb-container
+        margin-bottom: $spacing-3
+    + .container
+        margin-top: 0
