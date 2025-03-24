@@ -14,6 +14,12 @@ params:
   seo:
     title:
       separator: "•"
+  organizations:
+    single:
+      backlinks: true
+  persons:
+    single:
+      backlinks: true
   image_sizes:
     design_system:
       lightbox:
