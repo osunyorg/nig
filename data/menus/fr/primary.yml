@@ -15,13 +15,13 @@ items:
   children: []
   path: "/events"
   file: content/fr/events/_index.html
-- title: Études de cas
-  target: "/etudes-de-cas/"
+- title: Déclarations
+  target: "/declarations/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/etudes-de-cas"
-  file: content/fr/pages/etudes-de-cas/_index.html
+  path: "/projects"
+  file: content/fr/projects/_index.html
 - title: NIG 1.1
   target: "/nig-1-1/"
   kind: page
