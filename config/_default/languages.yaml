@@ -10,18 +10,6 @@ fr:
   params:
     contact_details:
 
-  permalinks:
-    events: /agenda/:year/:slug/
-    exhibitions: /expositions/:year-:month-:day-:slug/
-    events_categories: /agenda/:slug/
-    pages_categories: /:slug/
-    projects: /declarations/:year-:slug/
-    projects_categories: /declarations/:slug/
-    posts: /actualites/:year-:month-:day-:slug/
-    posts_categories: /actualites/:slug/
-    persons: /personnes/:slug/
-    persons_categories: /personnes/categories/:slug/
-    authors: /personnes/:slug/actualites/
   taxonomies:
     administrator: administrators
     author: authors
