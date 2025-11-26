@@ -1,4 +1,6 @@
-theme: nig-theme
+theme:
+  - nig-theme
+  - osuny-plugin-centered-footer
 _merge: deep
 params:
   plausible: numeriqueinteretgeneral.org
