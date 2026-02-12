@@ -4,11 +4,10 @@
     background-position: top
     .content
         h1
+            margin-top: pxToRem(-16)
             > span
                 color: #d7e2f3
         @include media-breakpoint-down(desktop)
-            display: flex !important
-            flex-direction: column-reverse !important
             figure
                 figcaption
                     background: none
