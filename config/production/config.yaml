@@ -7,6 +7,11 @@ osuny:
   website:
     id: 5b500a04-660b-455a-baeb-615e2ecd17c5
 
+## PARAMS
+params:
+  _merge: deep
+  plausible: "numeriqueinteretgeneral.org"
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
