@@ -13,3 +13,396 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/version-1-0/respect-des-personnes/accessibilite-1/index.html"
+to = "/nig-1-0/respect-des-personnes/accessibilite-1/"
+
+[[redirects]]
+from = "/version-1-0/justes-fins/besoins-reels/index.html"
+to = "/nig-1-0/justes-fins/besoins-reels/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-juste-place/v1-1-possibilite-dappropriation/index.html"
+to = "/nig-1-1/v1-1-juste-place/v1-1-possibilite-dappropriation/"
+
+[[redirects]]
+from = "/soin/index.html"
+to = "/nig-1-0/soin/"
+
+[[redirects]]
+from = "/version-1-0/respect-des-personnes/index.html"
+to = "/nig-1-0/respect-des-personnes/"
+
+[[redirects]]
+from = "/version-1-0/democratie/transparence/index.html"
+to = "/nig-1-0/democratie/transparence/"
+
+[[redirects]]
+from = "/version-1-0/juste-place/21-possibilite-dappropriation/index.html"
+to = "/nig-1-0/juste-place/possibilite-dappropriation/"
+
+[[redirects]]
+from = "/agenda/2025/transitions/2025-06-20-transitions-en-tension/index.html"
+to = "/agenda/2025/transitions/transitions-en-tension/"
+
+[[redirects]]
+from = "/agenda/2024-03-07-vers-un-numerique-dinteret-general/index.html"
+to = "/agenda/2024/vers-un-numerique-dinteret-general/"
+
+[[redirects]]
+from = "/version-1-0/democratie/index.html"
+to = "/nig-1-0/democratie/"
+
+[[redirects]]
+from = "/version-1-0/soin/utilisabilite/index.html"
+to = "/nig-1-0/soin/utilisabilite/"
+
+[[redirects]]
+from = "/version-1-0/justes-fins/1-1-besoins-reels/index.html"
+to = "/nig-1-0/justes-fins/besoins-reels/"
+
+[[redirects]]
+from = "/version-1-0/respect-des-personnes/simplicite/index.html"
+to = "/nig-1-0/respect-des-personnes/simplicite/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-respect-des-personnes/v1-1-simplicite/index.html"
+to = "/nig-1-1/v1-1-respect-des-personnes/v1-1-simplicite/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-democratie/v1-1-logiciel-libre/index.html"
+to = "/nig-1-1/v1-1-democratie/v1-1-logiciel-libre/"
+
+[[redirects]]
+from = "/agenda/2025/transitions/transitions-en-tension-sobriete-numerique-au-prisme-des-sciences-de-linformation-et-de-la-communicat/index.html"
+to = "/agenda/2025/transitions/transitions-en-tension/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-respect-de-la-loi/v1-1-paiement-de-limpot/index.html"
+to = "/nig-1-1/v1-1-respect-de-la-loi/v1-1-paiement-de-limpot/"
+
+[[redirects]]
+from = "/version-1-0/soin/beaute/index.html"
+to = "/nig-1-0/soin/beaute/"
+
+[[redirects]]
+from = "/agenda/2023-11-02-pour-un-numerique-acceptable-et-dinteret-general/index.html"
+to = "/agenda/2023/pour-un-numerique-acceptable-et-dinteret-general/"
+
+[[redirects]]
+from = "/etudes-de-cas-/index.html"
+to = "/etudes-de-cas/"
+
+[[redirects]]
+from = "/version-1-0/respect-de-la-loi/index.html"
+to = "/nig-1-0/respect-de-la-loi/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-juste-place/index.html"
+to = "/nig-1-1/v1-1-juste-place/"
+
+[[redirects]]
+from = "/respect-de-la-loi/index.html"
+to = "/nig-1-0/respect-de-la-loi/"
+
+[[redirects]]
+from = "/version-1-0/democratie/gouvernance-compatible/index.html"
+to = "/nig-1-0/democratie/gouvernance-compatible/"
+
+[[redirects]]
+from = "/agenda/2024-01-30-numerique-acceptable-vs-numerique-responsable/index.html"
+to = "/agenda/2024/numerique-acceptable-vs-numerique-responsable/"
+
+[[redirects]]
+from = "/actualites/2024-01-15-pour-un-numerique-acceptable-et-dinteret-general/index.html"
+to = "/actualites/2023-11-02-pour-un-numerique-acceptable-et-dinteret-general/"
+
+[[redirects]]
+from = "/version-1-0/juste-place/23-droit-a-la-non-connexion/index.html"
+to = "/nig-1-0/juste-place/droit-a-la-non-connexion/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-respect-des-personnes/v1-1-accessibilite/index.html"
+to = "/nig-1-1/v1-1-respect-des-personnes/v1-1-accessibilite/"
+
+[[redirects]]
+from = "/version-1-0/respect-de-la-loi/paiement-de-limpot/index.html"
+to = "/nig-1-0/respect-de-la-loi/paiement-de-limpot/"
+
+[[redirects]]
+from = "/actualites/2023-09-29-le-label-numerique-en-communs/index.html"
+to = "/actualites/2023-09-29-label-numerique-en-communs/"
+
+[[redirects]]
+from = "/projets/2025-les-champs-libres/index.html"
+to = "/declarations/2025-les-champs-libres/"
+
+[[redirects]]
+from = "/version-1-0/justes-fins/en-dessous-des-plafonds-environnementaux/index.html"
+to = "/nig-1-0/justes-fins/en-dessous-des-plafonds-environnementaux/"
+
+[[redirects]]
+from = "/version-1-0/respect-de-la-loi/respect-du-droit-du-travail/index.html"
+to = "/nig-1-0/respect-de-la-loi/respect-du-droit-du-travail/"
+
+[[redirects]]
+from = "/version-1-0/juste-place/droit-a-la-non-connexion/index.html"
+to = "/nig-1-0/juste-place/droit-a-la-non-connexion/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-juste-place/v1-1-droit-a-la-non-connexion/index.html"
+to = "/nig-1-1/v1-1-juste-place/v1-1-droit-a-la-non-connexion/"
+
+[[redirects]]
+from = "/agenda/2024-09-24-comment-construire-un-numerique-dinteret-general/index.html"
+to = "/agenda/2024/comment-construire-un-numerique-dinteret-general/"
+
+[[redirects]]
+from = "/projets/index.html"
+to = "/declarations/"
+
+[[redirects]]
+from = "/equipe/gauthier-roussilhe/index.html"
+to = "/personnes/gauthier-roussilhe/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-souverainete/index.html"
+to = "/nig-1-1/v1-1-souverainete/"
+
+[[redirects]]
+from = "/equipe/dominique-boullier/index.html"
+to = "/personnes/dominique-boullier/"
+
+[[redirects]]
+from = "/equipe/pascal-courtois/index.html"
+to = "/personnes/pascal-courtois/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-respect-de-la-loi/index.html"
+to = "/nig-1-1/v1-1-respect-de-la-loi/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-respect-de-la-loi/v1-1-respect-du-droit-du-travail/index.html"
+to = "/nig-1-1/v1-1-respect-de-la-loi/v1-1-respect-du-droit-du-travail/"
+
+[[redirects]]
+from = "/equipe/arnaud-levy/index.html"
+to = "/personnes/arnaud-levy/"
+
+[[redirects]]
+from = "/agenda/2025/transitions/2025-06-18-communs-numeriques-et-transition-socio-ecologique/index.html"
+to = "/agenda/2025/transitions/communs-numeriques-et-transition-socio-ecologique/"
+
+[[redirects]]
+from = "/agenda/2024-01-08-les-communs-un-moyen-pour-un-numerique-a-lessentiel/index.html"
+to = "/agenda/2024/les-communs-un-moyen-pour-un-numerique-a-lessentiel/"
+
+[[redirects]]
+from = "/version-1-0/justes-fins/index.html"
+to = "/nig-1-0/justes-fins/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-justes-fins/index.html"
+to = "/nig-1-1/v1-1-justes-fins/"
+
+[[redirects]]
+from = "/equipe/equipe-editoriale/index.html"
+to = "/personnes/equipe-editoriale/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-soin/v1-1-frugalite/index.html"
+to = "/nig-1-1/v1-1-soin/v1-1-frugalite/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-respect-des-personnes/index.html"
+to = "/nig-1-1/v1-1-respect-des-personnes/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-democratie/v1-1-gouvernance-compatible/index.html"
+to = "/nig-1-1/v1-1-democratie/v1-1-gouvernance-compatible/"
+
+[[redirects]]
+from = "/version-1-0/justes-fins/au-dessus-du-plancher-social/index.html"
+to = "/nig-1-0/justes-fins/au-dessus-du-plancher-social/"
+
+[[redirects]]
+from = "/equipe/celine-reveillac/index.html"
+to = "/personnes/celine-reveillac/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-democratie/index.html"
+to = "/nig-1-1/v1-1-democratie/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-soin/index.html"
+to = "/nig-1-1/v1-1-soin/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-justes-fins/v1-1-au-dessus-du-plancher-social/index.html"
+to = "/nig-1-1/v1-1-justes-fins/v1-1-au-dessus-du-plancher-social/"
+
+[[redirects]]
+from = "/agenda/2023-11-07-atelier-nig/index.html"
+to = "/agenda/2023/atelier-nig-wikipedia/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-respect-des-personnes/v1-1-honnetete/index.html"
+to = "/nig-1-1/v1-1-respect-des-personnes/v1-1-honnetete/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-soin/v1-1-beaute/index.html"
+to = "/nig-1-1/v1-1-soin/v1-1-beaute/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-justes-fins/v1-1-en-dessous-des-plafonds-environnementaux/index.html"
+to = "/nig-1-1/v1-1-justes-fins/v1-1-en-dessous-des-plafonds-environnementaux/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-respect-de-la-loi/v1-1-consentement/index.html"
+to = "/nig-1-1/v1-1-respect-de-la-loi/v1-1-consentement/"
+
+[[redirects]]
+from = "/equipe/florian-guillanton/index.html"
+to = "/personnes/florian-guillanton/"
+
+[[redirects]]
+from = "/version-1-0/soin/frugalite/index.html"
+to = "/nig-1-0/soin/frugalite/"
+
+[[redirects]]
+from = "/version-1-0/justes-fins/13-en-dessous-des-plafonds-environnementaux/index.html"
+to = "/nig-1-0/justes-fins/en-dessous-des-plafonds-environnementaux/"
+
+[[redirects]]
+from = "/version-1-0/juste-place/possibilite-dappropriation/index.html"
+to = "/nig-1-0/juste-place/possibilite-dappropriation/"
+
+[[redirects]]
+from = "/agenda/2025/propagande-et-influence-a-travers-les-reseaux-sociaux/index.html"
+to = "/agenda/2025/comment-le-numerique-reinvente-les-mecanismes-de-manipulation-de-l-information/"
+
+[[redirects]]
+from = "/equipe/arnaud-levy/actualites/index.html"
+to = "/personnes/arnaud-levy/actualites/"
+
+[[redirects]]
+from = "/version-1-0/index.html"
+to = "/nig-1-0/"
+
+[[redirects]]
+from = "/agenda/2024-09-19-numerique-post-croissance/index.html"
+to = "/agenda/2024/numerique-post-croissance/"
+
+[[redirects]]
+from = "/equipe/index.html"
+to = "/personnes/"
+
+[[redirects]]
+from = "/version-1-1/index.html"
+to = "/nig-1-1/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-souverainete/v1-1-structure-juridique-dhebergement-en-france-ou-en-europe/index.html"
+to = "/nig-1-1/v1-1-souverainete/v1-1-structure-juridique-dhebergement-en-france-ou-en-europe/"
+
+[[redirects]]
+from = "/agenda/2023-11-07-atelier-nig-wikipedia/index.html"
+to = "/agenda/2023/atelier-nig-wikipedia/"
+
+[[redirects]]
+from = "/agenda/2024-10-07-numerique-culturel-numerique-responsable/index.html"
+to = "/agenda/2024/numerique-culturel-numerique-responsable/"
+
+[[redirects]]
+from = "/actualites/2024-01-15-les-communs-un-moyen-pour-un-numerique-a-lessentiel/index.html"
+to = "/actualites/2024-01-08-les-communs-un-moyen-pour-un-numerique-a-lessentiel/"
+
+[[redirects]]
+from = "/agenda/2024-04-24-parlement-numerique-dinteret-general-1/index.html"
+to = "/agenda/2024/parlement-numerique-dinteret-general-1/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-juste-place/v1-1-liberte-dattention/index.html"
+to = "/nig-1-1/v1-1-juste-place/v1-1-liberte-dattention/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-justes-fins/v1-1-besoins-reels/index.html"
+to = "/nig-1-1/v1-1-justes-fins/v1-1-besoins-reels/"
+
+[[redirects]]
+from = "/agenda/2024-11-27-communs-numeriques-et-interet-general/index.html"
+to = "/agenda/2024/communs-numeriques-et-interet-general/"
+
+[[redirects]]
+from = "/version-1-0/juste-place/liberte-dattention/index.html"
+to = "/nig-1-0/juste-place/liberte-dattention/"
+
+[[redirects]]
+from = "/version-1-0/soin/index.html"
+to = "/nig-1-0/soin/"
+
+[[redirects]]
+from = "/version-1-0/democratie/logiciel-libre/index.html"
+to = "/nig-1-0/democratie/logiciel-libre/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-souverainete/v1-1-donnees-physiques-en-france-ou-en-europe/index.html"
+to = "/nig-1-1/v1-1-souverainete/v1-1-donnees-physiques-en-france-ou-en-europe/"
+
+[[redirects]]
+from = "/version-1-0/juste-place/22-liberte-dattention/index.html"
+to = "/nig-1-0/juste-place/liberte-dattention/"
+
+[[redirects]]
+from = "/version-1-0/respect-des-personnes/honnetete/index.html"
+to = "/nig-1-0/respect-des-personnes/honnetete/"
+
+[[redirects]]
+from = "/version-1-0/justes-fins/12-au-dessus-du-plancher-social/index.html"
+to = "/nig-1-0/justes-fins/au-dessus-du-plancher-social/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-souverainete/v1-1-infrastructure-et-application-securisees/index.html"
+to = "/nig-1-1/v1-1-souverainete/v1-1-infrastructure-et-application-securisees/"
+
+[[redirects]]
+from = "/agenda/2023-09-28-construire-un-cadre-de-reference-pour-un-numerique-dinteret-general/index.html"
+to = "/agenda/2023/construire-un-cadre-de-reference-pour-un-numerique-dinteret-general/"
+
+[[redirects]]
+from = "/equipe/remy-gerbet/index.html"
+to = "/personnes/remy-gerbet/"
+
+[[redirects]]
+from = "/agenda/2024-02-29-interet-general-et-externalites-du-numerique/index.html"
+to = "/agenda/2024/interet-general-et-externalites-du-numerique/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-democratie/v1-1-transparence/index.html"
+to = "/nig-1-1/v1-1-democratie/v1-1-transparence/"
+
+[[redirects]]
+from = "/agenda/2024-06-19-quelle-juste-place-du-numerique-dans-nos-societes-actuelles-et-a-venir-sous-langle-de-lethique-de-le/index.html"
+to = "/agenda/2024/quelle-juste-place-du-numerique-dans-nos-societes-actuelles-et-a-venir-sous-langle-de-lethique-de-le/"
+
+[[redirects]]
+from = "/agenda/2024-02-01-projets-ecoconcus-retours-dexperience/index.html"
+to = "/agenda/2024/projets-ecoconcus-retours-dexperience/"
+
+[[redirects]]
+from = "/version-1-1/v1-1-soin/v1-1-utilisabilite/index.html"
+to = "/nig-1-1/v1-1-soin/v1-1-utilisabilite/"
+
+[[redirects]]
+from = "/version-1-0/respect-de-la-loi/consentement/index.html"
+to = "/nig-1-0/respect-de-la-loi/consentement/"
+
+[[redirects]]
+from = "/actualites/2023-10-12-pour-un-numerique-d-interet-general-communication-et-democratie/index.html"
+to = "/actualites/2023-07-04-pour-un-numerique-d-interet-general-communication-et-democratie/"
+
+[[redirects]]
+from = "/version-1-0/juste-place/index.html"
+to = "/nig-1-0/juste-place/"
+
