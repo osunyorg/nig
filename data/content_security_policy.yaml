@@ -16,5 +16,6 @@ allowed_domains:
   - "youtube-nocookie.com"
   - "www.youtube-nocookie.com"
   - "peertube.designersethiques.org"
+  - "hal.science"
   - "www.numeriqueinteretgeneral.org"
   - "w.soundcloud.com"
