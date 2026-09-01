@@ -403,6 +403,10 @@ from = "/actualites/2023-10-12-pour-un-numerique-d-interet-general-communication
 to = "/actualites/2023-07-04-pour-un-numerique-d-interet-general-communication-et-democratie/"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/du-clic-au-declic-les-dessins-de-julienpdf/"
+
+[[redirects]]
 from = "/version-1-0/juste-place/index.html"
 to = "/nig-1-0/juste-place/"
 
