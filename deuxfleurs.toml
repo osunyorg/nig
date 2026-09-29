@@ -143,6 +143,10 @@ from = "/projets/2025-les-champs-libres/index.html"
 to = "/declarations/2025-les-champs-libres/"
 
 [[redirects]]
+from = "/agenda/2026/le-numerique-nous-aide-t-il-toujours-a-mieux-enseigner-et-a-mieux-apprendre/index.html"
+to = "/agenda/2026/le-numerique-educatif-une-analyse-contrastee/"
+
+[[redirects]]
 from = "/version-1-0/justes-fins/en-dessous-des-plafonds-environnementaux/index.html"
 to = "/nig-1-0/justes-fins/en-dessous-des-plafonds-environnementaux/"
 
