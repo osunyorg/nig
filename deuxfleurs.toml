@@ -107,6 +107,10 @@ from = "/respect-de-la-loi/index.html"
 to = "/nig-1-0/respect-de-la-loi/"
 
 [[redirects]]
+from = "/agenda/2026/atelier-osuny-le-web-cooperatif-et-commun/index.html"
+to = "/agenda/2026/osuny-le-web-cooperatif-et-commun/"
+
+[[redirects]]
 from = "/version-1-0/democratie/gouvernance-compatible/index.html"
 to = "/nig-1-0/democratie/gouvernance-compatible/"
 
