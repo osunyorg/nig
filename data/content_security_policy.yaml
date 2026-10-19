@@ -16,6 +16,7 @@ allowed_domains:
   - "player.vimeo.com"
   - "vumbnail.com"
   - "peertube.designersethiques.org"
+  - "peertube.stream"
   - "hal.science"
   - "w.soundcloud.com"
   - "www.numeriqueinteretgeneral.org"
